@@ -24,6 +24,7 @@
 *.physicMaterial filter=lfs diff=lfs merge=lfs -text
 *.lighting filter=lfs diff=lfs merge=lfs -text
 *.cs filter=lfs diff=lfs merge=lfs -text
+*.cubemap filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 *.TTF filter=lfs diff=lfs merge=lfs -text
 *.hlsl filter=lfs diff=lfs merge=lfs -text
@@ -37,4 +38,3 @@
 *.tif filter=lfs diff=lfs merge=lfs -text
 *.shadersubgraph filter=lfs diff=lfs merge=lfs -text
 *.terrainlayer filter=lfs diff=lfs merge=lfs -text
-*.cubemap filter=lfs diff=lfs merge=lfs -text
