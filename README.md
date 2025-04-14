@@ -14,15 +14,7 @@ Features:
  Creepy Atmosphere  Dark maze with eerie sounds.
 
 --------------------------------------------------------------------
-Team Details
 
-TEAM NAME:HexaByte
-
-Game Designer & Programmer: Jit Chowdhury(Team lead)
-3D Modeler & Environment Artist: Soumi Saha
-Sound & UI Integration: Swapnopriya Debnath
-Level Design & Gameplay Mechanics: Ritam Kundu
---------------------------------------------------------------------
 Controls
 WASD  Move
 
@@ -43,7 +35,7 @@ T  Instantly teleport to the maze exit.
 --------------------------------------------------------------------
 
 Assets & Attribution
-All 3D models and other in-game elements were created by the team. Below is a list of sounds and UI packs used from the internet, all of which are free to use:
+All 3D models and other in-game elements were created by the myself. Below is a list of sounds and UI packs used from the internet, all of which are free to use:
 
 Sounds Used
 Pixabay Sounds:
@@ -77,8 +69,6 @@ ghoulish-fright
 --------------------------------------------------------------------
 Download Instruction:
 
-Here's the GitHub repository link for Cloning: https://github.com/JitCh-gdev/PacHaunt
-Since I have uploaded all files using Git LFS, some packages (like terrain painter and others) may not work smoothly when cloning the project.
 
 To experience the game without any setup issues, download the fully built version from Itch.io:
  https://helifakx.itch.io/pac-haunt
