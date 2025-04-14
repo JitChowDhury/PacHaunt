@@ -14,6 +14,10 @@ Features:
  Creepy Atmosphere  Dark maze with eerie sounds.
 
 --------------------------------------------------------------------
+📺 Watch Gameplay: https://youtu.be/GourD-NzgJQ
+
+🎮 Play on Itch.io: https://helifakx.itch.io/pac-haunt
+--------------------------------------------------------------------
 
 Controls
 WASD  Move
